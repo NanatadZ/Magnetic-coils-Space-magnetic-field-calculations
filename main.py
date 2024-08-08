@@ -1,5 +1,5 @@
 import math
-import creat
+import FuncLibrary
 import numpy
 import matplotlib.pyplot as plt
 
